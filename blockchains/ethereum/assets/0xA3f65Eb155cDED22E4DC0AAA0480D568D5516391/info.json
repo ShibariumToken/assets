@@ -1,0 +1,21 @@
+{
+    "name": "Shibarium Token",
+    "website": "https://Shibarium.vip",
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Ethereum.",
+    "explorer": "https://etherscan.io/",
+    "research": "https://etherscan.io/token/0xa3f65eb155cded22e4dc0aaa0480d568d5516391",
+    "symbol": "SHIBARIUM",
+    "type": "Token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Shibariumtoken"
+        }
+    ]
+}
